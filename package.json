@@ -26,6 +26,6 @@
   },
   "homepage": "https://github.com/davezuko/koa-connect-history-api-fallback#readme",
   "dependencies": {
-    "url": "^0.11.0"
+    "connect-history-api-fallback": "^1.1.0"
   }
 }
